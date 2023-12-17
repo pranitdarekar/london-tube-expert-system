@@ -96,20 +96,11 @@
    (slot name (type SYMBOL))
 )
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(deftemplate StationConnection
+   (slot StartStation (type SYMBOL))
+   (slot EndStation (type SYMBOL))
+   (multislot Lines (type SYMBOL))
+   (slot Time (type INTEGER))
+)
 
 

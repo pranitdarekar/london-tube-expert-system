@@ -2,25 +2,1053 @@
 
 (deffacts Stations
    (Station
-      (Name OxfordCircus)
-      (Lines Central Bakerloo Victoria)
+      (Name AldgateEast)
+      (Lines District HammersmithCity)
       (Zone 1)
-      (NextStation Central direction_forward Holborn
-                   Central direction_backword MarbleArch
-                   Bakerloo direction_forward PiccadillyCircus
-                   Bakerloo direction_backword RegentsPark
-                   Victoria direction_forward WarrenStreet
-                   Victoria direction_backword GreenPark)
+      (NextStation XXXX)
       (TransferStation yes)
    )
+
+   (Station
+      (Name Angel)
+      (Lines Northern)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name BakerStreet)
+      (Lines Bakerloo Circle HammersmithCity Jubilee Metropolitan)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name BankAndMonument)
+      (Lines Central Northern WaterlooCity Circle District)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name Barbican)
+      (Lines Circle HammersmithCity Metropolitan)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name BatterseaPowerStation)
+      (Lines Northern)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name Bayswater)
+      (Lines Circle District)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name BondStreet)
+      (Lines Central Jubilee)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name Borough)
+      (Lines Northern)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name CannonStreet)
+      (Lines Circle District)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+   )
+
+   (Station
+      (Name ChanceryLane)
+      (Lines Central)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+   )
+
+   (Station
+      (Name CharingCross)
+      (Lines Bakerloo Northern)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name CoventGarden)
+      (Lines Piccadilly)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name EarlsCourt)
+      (Lines District Piccadilly)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name EdgwareRoad)
+      (Lines Bakerloo Circle District HammersmithCity)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name ElephantAndCastle)
+      (Lines Bakerloo Northern)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name Embankment)
+      (Lines Bakerloo Circle District Northern)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name EustonSquare)
+      (Lines Circle HammersmithCity Metropolitan)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name Euston)
+      (Lines Northern Victoria)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+   (Station
+      (Name Farringdon)
+      (Lines Circle HammersmithCity Metropolitan)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+   )
+
+   (Station
+      (Name GloucesterRoad)
+      (Lines Circle District Piccadilly)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name GoodgeStreet)
+      (Lines Northern)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name GreatPortlandStreet)
+      (Lines Circle HammersmithCity Metropolitan)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name GreenPark)
+      (Lines Jubilee Piccadilly Victoria)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name HighStreetKensington)
+      (Lines Circle District)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name Holborn)
+      (Lines Central Piccadilly)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name HydeParkCorner)
+      (Lines Piccadilly)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+   )   
+
+   (Station
+      (Name Kennington)
+      (Lines Northern)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name KingsCross)
+      (Lines Circle HammersmithCity Metropolitan Northern Piccadilly Victoria)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name Knightsbridge)
+      (Lines Piccadilly)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name LambethNorth)
+      (Lines Bakerloo)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name LancasterGate)
+      (Lines Central)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name LeicesterSquare)
+      (Lines Northern Piccadilly)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name LiverpoolStreet)
+      (Lines Central Circle HammersmithCity Metropolitan)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name LondonBridge)
+      (Lines Jubilee Northern)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name MansionHouse)
+      (Lines Circle District)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+   )
+
+   (Station
+      (Name MarbleArch)
+      (Lines Central)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name Marylebone)
+      (Lines Bakerloo)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name Moorgate)
+      (Lines Circle HammersmithCity Metropolitan Northern)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
 
    (Station
       (Name NineElms)
       (Lines Northern)
       (Zone 1)
-      (NextStation Northern direction_forward Kennington
-                   Northern direction_backword BatterSeaPowerStation)
+      (NextStation XXXX)
       (TransferStation no)
+    )
+
+   (Station
+      (Name NottingHillGate)
+      (Lines Central Circle District)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name OldStreet)
+      (Lines Northern)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name OxfordsCircus)
+      (Lines Bakerloo Central Victoria)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name Paddington)
+      (Lines Bakerloo Circle District HammersmithCity)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name PiccadillyCircus)
+      (Lines Bakerloo Piccadilly)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+   )
+
+   (Station
+      (Name Pimlico)
+      (Lines Victoria)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+   )
+
+   (Station
+      (Name Queensway)
+      (Lines Central)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name RegentsPark)
+      (Lines Bakerloo)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name RussellSquare)
+      (Lines Piccadilly)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name SloaneSquare)
+      (Lines Circle District)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name SouthKensington)
+      (Lines Circle District Piccadilly)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name Southwark)
+      (Lines Jubilee)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name StJamesPark)
+      (Lines Circle District)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name StPauls)
+      (Lines Central)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name Temple)
+      (Lines Circle District)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name TottenhamCourtRoad)
+      (Lines Central Northern)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name TowerHill)
+      (Lines Circle District)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name Vauxhall)
+      (Lines Victoria)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name Victoria)
+      (Lines Circle District Victoria)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name WarrenStreet)
+      (Lines Northern Victoria)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+   )
+
+   (Station
+      (Name Waterloo)
+      (Lines Bakerloo Jubilee Northern WaterlooCity)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+   )
+
+   (Station
+      (Name Westminster)
+      (Lines Circle District Jubilee)
+      (Zone 1)
+      (NextStation XXXX)
+      (TransferStation yes)
+   )
+
+;  Zone 2 Stations
+   (Station
+      (Name Archway)
+      (Lines Northern)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name Arsenal)
+      (Lines Piccadilly)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name BaronsCourt)
+      (Lines District Piccadilly)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name BelsizePark)
+      (Lines Northern)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name Bermondsey)
+      (Lines Jubilee)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name BethnalGreen)
+      (Lines Central)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+   )
+
+   (Station
+      (Name CaledonianRoad)
+      (Lines Piccadilly)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name CamdenTown)
+      (Lines Northern)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name CanaryWharfTube)
+      (Lines Jubilee)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+   )
+
+   (Station
+      (Name CanningTown)
+      (Lines Jubilee)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name ChalkFarm)
+      (Lines Northern)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name ClaphamCommon)
+      (Lines Northern)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name ClaphamNorth)
+      (Lines Northern)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name ClaphamSouth)
+      (Lines Northern)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name EarlsCourt)
+      (Lines District Piccadilly)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+   )
+
+   (Station
+      (Name EastActon)
+      (Lines Central)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+
+   (Station
+      (Name EastPutney)
+      (Lines District)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name ElephantAndCastle)
+      (Lines Bakerloo Northern)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name FinchleyRoad)
+      (Lines Jubilee)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name FinsburyPark)
+      (Lines Piccadilly Victoria)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name FulhamBroadway)
+      (Lines District)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+   )
+
+   (Station
+      (Name GoldhawkRoad)
+      (Lines Circle HammersmithCity)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name Hammersmith)
+      (Lines Circle District HammersmithCity Piccadilly)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name Hampstead)
+      (Lines Northern)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name HighburyAndIslington)
+      (Lines Victoria)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name HollandPark)
+      (Lines Central)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name HollowayRoad)
+      (Lines Piccadilly)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name Kennington)
+      (Lines Northern)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name KensalGreen)
+      (Lines Bakerloo)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name KensingtonOlympia)
+      (Lines District)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name KentishTown)
+      (Lines Northern)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name KilburnPark)
+      (Lines Bakerloo)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name Kilburn)
+      (Lines Jubilee)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name LadbrokeGrove)
+      (Lines Circle HammersmithCity)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+   )
+
+
+   (Station
+      (Name LatimerRoad)
+      (Lines Circle HammersmithCity)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name MaidaVale)
+      (Lines Bakerloo)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name ManorHouse)
+      (Lines Piccadilly)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name MileEnd)
+      (Lines Central District HammersmithCity)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name MorningtonCrescent)
+      (Lines Northern)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name NorthActon)
+      (Lines Central)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name NorthGreenwich)
+      (Lines Jubilee)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name NottingHillGate)
+      (Lines Central Circle District)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name Oval)
+      (Lines Northern)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name ParsonsGreen)
+      (Lines District)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+   )
+
+   (Station
+      (Name PutneyBridge)
+      (Lines District)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name QueensPark)
+      (Lines Bakerloo)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name RavenscourtPark)
+      (Lines District)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+   )
+
+   (Station
+      (Name RoyalOak)
+      (Lines Circle HammersmithCity)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name ShepherdsBushMarket)
+      (Lines Circle HammersmithCity)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name ShepherdsBush)
+      (Lines Central)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name StJohnsWood)
+      (Lines Jubilee)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+   )
+
+   (Station
+      (Name StamfordBrook)
+      (Lines District)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name StepneyGreen)
+      (Lines District HammersmithCity)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name Stockwell)
+      (Lines Northern Victoria)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name Stratford)
+      (Lines Central Jubilee)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name SwissCottage)
+      (Lines Jubilee)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name TufnellPark)
+      (Lines Northern)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name TurnhamGreen)
+      (Lines District Piccadilly)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name WarwickAvenue)
+      (Lines Bakerloo)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name WestBrompton)
+      (Lines District)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name WestHam)
+      (Lines District HammersmithCity Jubilee)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name WestHampstead)
+      (Lines Jubilee)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name WestKensington)
+      (Lines District)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name WestbournePark)
+      (Lines Circle HammersmithCity)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name WhiteCity)
+      (Lines Central)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name Whitechapel)
+      (Lines District HammersmithCity)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name WillesdenGreen)
+      (Lines Jubilee)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation no)
+    )
+
+   (Station
+      (Name WillesdenJunction)
+      (Lines Bakerloo)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
+    )
+
+   (Station
+      (Name WoodLane)
+      (Lines Circle HammersmithCity)
+      (Zone 2)
+      (NextStation XXXX)
+      (TransferStation yes)
     )
 )
 
@@ -580,4 +1608,157 @@
    (StationList (name WillesdenGreen))
    (StationList (name WillesdenJunction))
    (StationList (name WoodLane))
+   (StationList (name OxfordCircus))
+)
+(deffacts StationConnectionFacts
+   (StationConnection (StartStation WillesdenJunction) (EndStation KensalGreen) (Lines Bakerloo) (Time 3))
+   (StationConnection (StartStation KensalGreen) (EndStation QueensPark) (Lines Bakerloo) (Time 3))
+   (StationConnection (StartStation QueensPark) (EndStation KilburnPark) (Lines Bakerloo) (Time 6))
+   (StationConnection (StartStation KilburnPark) (EndStation MaidaVale) (Lines Bakerloo) (Time 4))
+   (StationConnection (StartStation MaidaVale) (EndStation WarwickAvenue) (Lines Bakerloo) (Time 3))
+   (StationConnection (StartStation WarwickAvenue) (EndStation Paddington) (Lines Bakerloo) (Time 5))
+   (StationConnection (StartStation Paddington) (EndStation EdgwareRoad) (Lines Bakerloo) (Time 3))
+   (StationConnection (StartStation EdgwareRoad) (EndStation Marylebone) (Lines Bakerloo) (Time 4))
+   (StationConnection (StartStation Marylebone) (EndStation BakerStreet) (Lines Bakerloo) (Time 4))
+   (StationConnection (StartStation BakerStreet) (EndStation RegentsPark) (Lines Bakerloo) (Time 4))
+   (StationConnection (StartStation RegentsPark) (EndStation OxfordCircus) (Lines Bakerloo) (Time 3))
+   (StationConnection (StartStation OxfordCircus) (EndStation PiccadillyCircus) (Lines Bakerloo) (Time 4))
+   (StationConnection (StartStation PiccadillyCircus) (EndStation CharingCross) (Lines Bakerloo) (Time 3))
+   (StationConnection (StartStation CharingCross) (EndStation Embankment) (Lines Bakerloo) (Time 5))
+   (StationConnection (StartStation Embankment) (EndStation Waterloo) (Lines Bakerloo) (Time 4))
+   (StationConnection (StartStation Waterloo) (EndStation LambethNorth) (Lines Bakerloo) (Time 5))
+   (StationConnection (StartStation LambethNorth) (EndStation ElephantAndCastle) (Lines Bakerloo) (Time 5))
+   (StationConnection (StartStation NorthActon) (EndStation EastActon) (Lines Central) (Time 2))
+   (StationConnection (StartStation EastActon) (EndStation WhiteCity) (Lines Central) (Time 3))
+   (StationConnection (StartStation WhiteCity) (EndStation ShepherdsBush) (Lines Central) (Time 4))
+   (StationConnection (StartStation ShepherdsBush) (EndStation HollandPark) (Lines Central) (Time 3))
+   (StationConnection (StartStation HollandPark) (EndStation NottingHillGate) (Lines Central) (Time 3))
+   (StationConnection (StartStation NottingHillGate) (EndStation Queensway) (Lines Central) (Time 5))
+   (StationConnection (StartStation Queensway) (EndStation LancasterGate) (Lines Central) (Time 4))
+   (StationConnection (StartStation LancasterGate) (EndStation MarbleArch) (Lines Central) (Time 3))
+   (StationConnection (StartStation MarbleArch) (EndStation BondStreet) (Lines Central) (Time 3))
+   (StationConnection (StartStation BondStreet) (EndStation OxfordCircus) (Lines Central) (Time 5))
+   (StationConnection (StartStation OxfordCircus) (EndStation TottenhamCourtRoad) (Lines Central) (Time 3))
+   (StationConnection (StartStation TottenhamCourtRoad) (EndStation Holborn) (Lines Central) (Time 4))
+   (StationConnection (StartStation Holborn) (EndStation ChanceryLane) (Lines Central) (Time 3))
+   (StationConnection (StartStation ChanceryLane) (EndStation StPauls) (Lines Central) (Time 5))
+   (StationConnection (StartStation LiverpoolStreet) (EndStation BethnalGreen) (Lines Central) (Time 8))
+   (StationConnection (StartStation BethnalGreen) (EndStation MileEnd) (Lines Central) (Time 5))
+   (StationConnection (StartStation MileEnd) (EndStation Stratford) (Lines Central) (Time 7))
+   (StationConnection (StartStation Hammersmith) (EndStation GoldhawkRoad) (Lines Circle HammersmithCity) (Time 2))
+   (StationConnection (StartStation GoldhawkRoad) (EndStation ShepherdsBushMarket) (Lines Circle HammersmithCity) (Time 2))
+   (StationConnection (StartStation ShepherdsBushMarket) (EndStation WoodLane) (Lines Circle HammersmithCity) (Time 3))
+   (StationConnection (StartStation WoodLane) (EndStation LatimerRoad) (Lines Circle HammersmithCity) (Time 2))
+   (StationConnection (StartStation LatimerRoad) (EndStation LadbrokeGrove) (Lines Circle HammersmithCity) (Time 2))
+   (StationConnection (StartStation LadbrokeGrove) (EndStation WestbournePark) (Lines Circle HammersmithCity) (Time 2))
+   (StationConnection (StartStation WestbournePark) (EndStation RoyalOak) (Lines Circle HammersmithCity) (Time 2))
+   (StationConnection (StartStation RoyalOak) (EndStation Paddington) (Lines Circle HammersmithCity) (Time 6))
+   (StationConnection (StartStation Paddington) (EndStation EdgwareRoad) (Lines Circle HammersmithCity) (Time 4))
+   (StationConnection (StartStation EdgwareRoad) (EndStation BakerStreet) (Lines Circle HammersmithCity) (Time 4))
+   (StationConnection (StartStation BakerStreet) (EndStation GreatPortlandStreet) (Lines Circle Metropolitan HammersmithCity) (Time 4))
+   (StationConnection (StartStation GreatPortlandStreet) (EndStation EustonSquare) (Lines Circle Metropolitan HammersmithCity) (Time 4))
+   (StationConnection (StartStation EustonSquare) (EndStation KingsCrossStPancras) (Lines Circle Metropolitan HammersmithCity) (Time 5))
+   (StationConnection (StartStation KingsCrossStPancras) (EndStation Farringdon) (Lines Circle Metropolitan HammersmithCity) (Time 4))
+   (StationConnection (StartStation Farringdon) (EndStation Barbican) (Lines Circle Metropolitan HammersmithCity) (Time 3))
+   (StationConnection (StartStation Barbican) (EndStation Moorgate) (Lines Circle Metropolitan HammersmithCity) (Time 4))
+   (StationConnection (StartStation Moorgate) (EndStation LiverpoolStreet) (Lines Circle Metropolitan HammersmithCity) (Time 4))
+   (StationConnection (StartStation LiverpoolStreet) (EndStation Aldgate) (Lines Circle Metropolitan) (Time 5))
+   (StationConnection (StartStation Aldgate) (EndStation TowerHill) (Lines Circle) (Time 4))
+   (StationConnection (StartStation TowerHill) (EndStation Monument) (Lines Circle District) (Time 3))
+   (StationConnection (StartStation Monument) (EndStation CannonStreet) (Lines Circle District) (Time 4))
+   (StationConnection (StartStation CannonStreet) (EndStation MansionHouse) (Lines Circle District) (Time 3))
+   (StationConnection (StartStation MansionHouse) (EndStation Blackfriars) (Lines Circle District) (Time 3))
+   (StationConnection (StartStation Blackfriars) (EndStation Temple) (Lines Circle District) (Time 4))
+   (StationConnection (StartStation Temple) (EndStation Embankment) (Lines Circle District) (Time 3))
+   (StationConnection (StartStation Embankment) (EndStation Westminster) (Lines Circle District) (Time 3))
+   (StationConnection (StartStation Westminster) (EndStation StJamesPark) (Lines Circle District) (Time 3))
+   (StationConnection (StartStation StJamesPark) (EndStation Victoria) (Lines Circle District) (Time 3))
+   (StationConnection (StartStation Victoria) (EndStation SloaneSquare) (Lines Circle District) (Time 3))
+   (StationConnection (StartStation SloaneSquare) (EndStation SouthKensington) (Lines Circle District) (Time 3))
+   (StationConnection (StartStation SouthKensington) (EndStation GloucesterRoad) (Lines Circle District) (Time 3))
+   (StationConnection (StartStation GloucesterRoad) (EndStation HighStreetKensington) (Lines Circle) (Time 4))
+   (StationConnection (StartStation HighStreetKensington) (EndStation NottingHillGate) (Lines Circle District) (Time 4))
+   (StationConnection (StartStation NottingHillGate) (EndStation Bayswater) (Lines Circle District) (Time 3))
+   (StationConnection (StartStation Bayswater) (EndStation Paddington) (Lines Circle District) (Time 3))
+   (StationConnection (StartStation Paddington) (EndStation EdgwareRoad) (Lines Circle District) (Time 3))
+   (StationConnection (StartStation BowRoad) (EndStation MileEnd) (Lines District HammersmithCity) (Time 4))
+   (StationConnection (StartStation MileEnd) (EndStation StepneyGreen) (Lines District HammersmithCity) (Time 4))
+   (StationConnection (StartStation StepneyGreen) (EndStation Whitechapel) (Lines District HammersmithCity) (Time 3))
+   (StationConnection (StartStation Whitechapel) (EndStation AldgateEast) (Lines District HammersmithCity) (Time 4))
+   (StationConnection (StartStation AldgateEast) (EndStation TowerHill) (Lines District) (Time 3))
+   (StationConnection (StartStation WestBrompton) (EndStation FulhamBroadway) (Lines District) (Time 4))
+   (StationConnection (StartStation FulhamBroadway) (EndStation ParsonsGreen) (Lines District) (Time 4))
+   (StationConnection (StartStation ParsonsGreen) (EndStation PutneyBridge) (Lines District) (Time 5))
+   (StationConnection (StartStation WestKensington) (EndStation BaronsCourt) (Lines District) (Time 5))
+   (StationConnection (StartStation BaronsCourt) (EndStation Hammersmith) (Lines District) (Time 3))
+   (StationConnection (StartStation Hammersmith) (EndStation RavenscourtPark) (Lines District) (Time 3))
+   (StationConnection (StartStation RavenscourtPark) (EndStation StamfordBrook) (Lines District) (Time 3))
+   (StationConnection (StartStation StamfordBrook) (EndStation TurnhamGreen) (Lines District) (Time 4))
+   (StationConnection (StartStation LiverpoolStreet) (EndStation AldgateEast) (Lines HammersmithCity) (Time 5))
+   (StationConnection (StartStation WillesdenGreen) (EndStation Kilburn) (Lines Jubilee) (Time 3))
+   (StationConnection (StartStation Kilburn) (EndStation WestHampstead) (Lines Jubilee) (Time 3))
+   (StationConnection (StartStation WestHampstead) (EndStation FinchleyRoad) (Lines Jubilee) (Time 5))
+   (StationConnection (StartStation FinchleyRoad) (EndStation SwissCottage) (Lines Jubilee) (Time 5))
+   (StationConnection (StartStation SwissCottage) (EndStation StJohnsWood) (Lines Jubilee) (Time 2))
+   (StationConnection (StartStation StJohnsWood) (EndStation BakerStreet) (Lines Jubilee) (Time 4))
+   (StationConnection (StartStation BakerStreet) (EndStation BondStreet) (Lines Jubilee) (Time 5))
+   (StationConnection (StartStation Westminster) (EndStation Waterloo) (Lines Jubilee) (Time 6))
+   (StationConnection (StartStation Waterloo) (EndStation Southwark) (Lines Jubilee) (Time 5))
+   (StationConnection (StartStation Southwark) (EndStation LondonBridge) (Lines Jubilee) (Time 8))
+   (StationConnection (StartStation LondonBridge) (EndStation Bermondsey) (Lines Jubilee) (Time 5))
+   (StationConnection (StartStation Bermondsey) (EndStation CanadaWater) (Lines Jubilee) (Time 5))
+   (StationConnection (StartStation CanadaWater) (EndStation CanaryWharf) (Lines Jubilee) (Time 7))
+   (StationConnection (StartStation FinchleyRoad) (EndStation WestHampstead) (Lines Metropolitan) (Time 7))
+   (StationConnection (StartStation Hampstead) (EndStation BelsizePark) (Lines Northern) (Time 7))
+   (StationConnection (StartStation BelsizePark) (EndStation ChalkFarm) (Lines Northern) (Time 3))
+   (StationConnection (StartStation ChalkFarm) (EndStation CamdenTown) (Lines Northern) (Time 3))
+   (StationConnection (StartStation CamdenTown) (EndStation MorningtonCrescent) (Lines Northern) (Time 3))
+   (StationConnection (StartStation CamdenTown) (EndStation Euston) (Lines Northern) (Time 5))
+   (StationConnection (StartStation MorningtonCrescent) (EndStation Euston) (Lines Northern) (Time 3))
+   (StationConnection (StartStation Euston) (EndStation KingsCrossStPancras) (Lines Northern) (Time 5))
+   (StationConnection (StartStation KingsCrossStPancras) (EndStation Angel) (Lines Northern) (Time 4))
+   (StationConnection (StartStation Angel) (EndStation OldStreet) (Lines Northern) (Time 4))
+   (StationConnection (StartStation OldStreet) (EndStation Moorgate) (Lines Northern) (Time 4))
+   (StationConnection (StartStation LondonBridge) (EndStation Borough) (Lines Northern) (Time 5))
+   (StationConnection (StartStation Borough) (EndStation ElephantAndCastle) (Lines Northern) (Time 6))
+   (StationConnection (StartStation ElephantAndCastle) (EndStation Kennington) (Lines Northern) (Time 2))
+   (StationConnection (StartStation Kennington) (EndStation Oval) (Lines Northern) (Time 2))
+   (StationConnection (StartStation Oval) (EndStation Stockwell) (Lines Northern) (Time 3))
+   (StationConnection (StartStation Stockwell) (EndStation ClaphamNorth) (Lines Northern) (Time 3))
+   (StationConnection (StartStation ClaphamNorth) (EndStation ClaphamCommon) (Lines Northern) (Time 3))
+   (StationConnection (StartStation ClaphamCommon) (EndStation ClaphamSouth) (Lines Northern) (Time 3))
+   (StationConnection (StartStation Euston) (EndStation WarrenStreet) (Lines Northern) (Time 3))
+   (StationConnection (StartStation WarrenStreet) (EndStation GoodgeStreet) (Lines Northern) (Time 4))
+   (StationConnection (StartStation GoodgeStreet) (EndStation TottenhamCourtRoad) (Lines Northern) (Time 4))
+   (StationConnection (StartStation TottenhamCourtRoad) (EndStation LeicesterSquare) (Lines Northern) (Time 3))
+   (StationConnection (StartStation LeicesterSquare) (EndStation CharingCross) (Lines Northern) (Time 5))
+   (StationConnection (StartStation CharingCross) (EndStation Embankment) (Lines Northern) (Time 4))
+   (StationConnection (StartStation Embankment) (EndStation Waterloo) (Lines Northern) (Time 3))
+   (StationConnection (StartStation Waterloo) (EndStation Kennington) (Lines Northern) (Time 3))
+   (StationConnection (StartStation Kennington) (EndStation NineElms) (Lines Northern) (Time 3))
+   (StationConnection (StartStation NineElms) (EndStation BatterseaPowerStation) (Lines Northern) (Time 3))
+   (StationConnection (StartStation ManorHouse) (EndStation FinsburyPark) (Lines Piccadilly) (Time 5))
+   (StationConnection (StartStation FinsburyPark) (EndStation Arsenal) (Lines Piccadilly) (Time 3))
+   (StationConnection (StartStation Arsenal) (EndStation HollowayRoad) (Lines Piccadilly) (Time 3))
+   (StationConnection (StartStation HollowayRoad) (EndStation CaledonianRoad) (Lines Piccadilly) (Time 2))
+   (StationConnection (StartStation CaledonianRoad) (EndStation KingsCrossStPancras) (Lines Piccadilly) (Time 6))
+   (StationConnection (StartStation KingsCrossStPancras) (EndStation RussellSquare) (Lines Piccadilly) (Time 3))
+   (StationConnection (StartStation RussellSquare) (EndStation Holborn) (Lines Piccadilly) (Time 5))
+   (StationConnection (StartStation Holborn) (EndStation CoventGarden) (Lines Piccadilly) (Time 3))
+   (StationConnection (StartStation CoventGarden) (EndStation LeicesterSquare) (Lines Piccadilly) (Time 2))
+   (StationConnection (StartStation LeicesterSquare) (EndStation PiccadillyCircus) (Lines Piccadilly) (Time 4))
+   (StationConnection (StartStation HydeParkCorner) (EndStation Knightsbridge) (Lines Piccadilly) (Time 4))
+   (StationConnection (StartStation Knightsbridge) (EndStation SouthKensington) (Lines Piccadilly) (Time 5))
+   (StationConnection (StartStation SouthKensington) (EndStation GloucesterRoad) (Lines Piccadilly) (Time 3))
+   (StationConnection (StartStation BaronsCourt) (EndStation Hammersmith) (Lines Piccadilly) (Time 3))
+   (StationConnection (StartStation Hammersmith) (EndStation TurnhamGreen) (Lines Piccadilly) (Time 7))
+   (StationConnection (StartStation FinsburyPark) (EndStation HighburyAndIslington) (Lines Victoria) (Time 5))
+   (StationConnection (StartStation HighburyAndIslington) (EndStation KingsCrossStPancras) (Lines Victoria) (Time 8))
+   (StationConnection (StartStation KingsCrossStPancras) (EndStation Euston) (Lines Victoria) (Time 3))
+   (StationConnection (StartStation Euston) (EndStation WarrenStreet) (Lines Victoria) (Time 4))
+   (StationConnection (StartStation WarrenStreet) (EndStation OxfordCircus) (Lines Victoria) (Time 5))
+   (StationConnection (StartStation Victoria) (EndStation Pimlico) (Lines Victoria) (Time 4))
+   (StationConnection (StartStation Pimlico) (EndStation Vauxhall) (Lines Victoria) (Time 7))
+   (StationConnection (StartStation Vauxhall) (EndStation Stockwell) (Lines Victoria) (Time 4))
+   (StationConnection (StartStation Stockwell) (EndStation Brixton) (Lines Victoria) (Time 4))
 )
