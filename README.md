@@ -42,18 +42,20 @@ The London Tube Expert System is a project that aims to provide users with intel
 
 ## Screenshots
 
-### Screenshot 1: Location of Attraction
-![Screenshot 1](screenshots/attraction-location.png)
+### Screenshot 1: London Tube Map
+![Screenshot 1](screenshots/map.png)
 ### Screenshot 2: Attractions near a station
 ![Screenshot 2](screenshots/attractions-near-station.png)
 ### Screenshot 3: Fare Chart
-![Screenshot 2](screenshots/fares.png)
+![Screenshot 3](screenshots/fares.png)
 ### Screenshot 4: HELP Menu
-![Screenshot 2](screenshots/help-menu.png)
+![Screenshot 4](screenshots/help-menu.png)
 ### Screenshot 5: Route Planning
-![Screenshot 2](screenshots/route.png)
+![Screenshot 5](screenshots/route.png)
 ### Screenshot 6: Travel Fare
-![Screenshot 2](screenshots/travel-fare.png)
+![Screenshot 6](screenshots/travel-fare.png)
 ### Screenshot 7: Travel Time
-![Screenshot 2](screenshots/travel-time.png)
+![Screenshot 7](screenshots/travel-time.png)
+### Screenshot 8: Attraction Info
+![Screenshot 8](screenshots/attraction-location.png)
 
