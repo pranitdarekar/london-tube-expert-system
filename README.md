@@ -39,3 +39,21 @@ The London Tube Expert System is a project that aims to provide users with intel
    ```clips
    (start-expert-system)
 5. Interact with the expert system to extract information about the London Tube. Follow the on-screen instructions to utilize the different features and gather insights.
+
+## Screenshots
+
+### Screenshot 1: Location of Attraction
+![Screenshot 1](screenshots/attraction-location.png)
+### Screenshot 2: Attractions near a station
+![Screenshot 2](screenshots/attractions-near-station.png)
+### Screenshot 3: Fare Chart
+![Screenshot 2](screenshots/fares.png)
+### Screenshot 4: HELP Menu
+![Screenshot 2](screenshots/help-menu.png)
+### Screenshot 5: Route Planning
+![Screenshot 2](screenshots/route.png)
+### Screenshot 6: Travel Fare
+![Screenshot 2](screenshots/travel-fare.png)
+### Screenshot 7: Travel Time
+![Screenshot 2](screenshots/travel-time.png)
+
